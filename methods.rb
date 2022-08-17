@@ -27,7 +27,7 @@ def halve number
 
     number / 2
 end
-puts halve "kllS" 
+
   
   
   
